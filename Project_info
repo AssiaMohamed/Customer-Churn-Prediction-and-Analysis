@@ -1,0 +1,29 @@
+# 📊 Customer Churn Prediction
+
+## 📌 Overview
+The **Customer Churn Prediction** project leverages **data analysis and machine learning** to identify customers at risk of leaving a service.  
+By predicting churn, businesses can take **proactive actions** to retain customers and improve customer satisfaction.  
+
+## 🔍 Dataset Information
+- **Source**: Customer data obtained from [Kaggle](https://www.kaggle.com/)  
+- **Size**: 10,000 records  
+- **Key Features**:
+  - `CustomerID`: Unique customer identifier  
+  - `Tenure`: Duration of customer retention  
+  - `MonthlyCharges`: Monthly subscription fee  
+  - `TotalCharges`: Total amount charged  
+  - `Churn`: Did the customer leave? (1 = Yes, 0 = No)  
+
+## 🛠️ Technologies Used
+- **Programming Language**: Python 🐍  
+- **Libraries**:
+  - Pandas, NumPy (Data Analysis)  
+  - Matplotlib, Seaborn (Data Visualization)  
+  - Scikit-learn (Machine Learning)  
+  - XGBoost, LightGBM (Advanced Models)  
+
+## 🚀 How to Run the Project
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/username/customer-churn-prediction.git
+   cd customer-churn-prediction
